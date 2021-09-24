@@ -1,6 +1,6 @@
 ---
 title: "Act_04_Data_Visualitation_BrayanCR"
-author: "Brayan Coronel Ramirez"
+author: "Brayan Coronel Ramirez, Raul Pineda Urbina, Damian Garcia Vera"
 date: "9/24/2021"
 output: html_document
 ---
